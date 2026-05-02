@@ -1,1 +1,1 @@
-# SDC--Analysis-of-text-classification-using-deep-neural-network
+# SDC--Analysis-of-text-classification-using-DNN
